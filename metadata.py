@@ -3,7 +3,7 @@ import json
 
 def main():
     # Путь к файлу Jupyter Notebook
-    notebook_path = "Intro_into_Pytorch.ipynb"
+    notebook_path = "Activation_Function.ipynb"
 
     # Чтение содержимого файла
     with open(notebook_path, "r", encoding="utf-8") as f:
